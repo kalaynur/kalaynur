@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord => Eratost#6107
 
